@@ -1,0 +1,201 @@
+EGPP-101
+Introduction to Engineering
+2 Credits
+Provides information on engineering education, the engineering profession, engineering basic concepts and engineering tools. Introduces the engineering design process and provides the opportunity for students to complete engineering design projects.
+CSCI-100
+Introduction to Computer Science
+3 Credits
+This course introduces the fundamentals of systems and computer science. A brief examination of critical, creative, systems and scientific thinking, is followed by more details on computational thinking. The focus is hands on computing exercises and group exercises that stress the importance of algorithms and problem solving. Students are exposed to the research agenda of the department, the different track options and career opportunities along the different tracks.
+CSCI-140
+Programming Team 
+1 Credit
+This course is for participants of the programming team.
+CSCI-135
+Computer Science I
+4 Credits
+This course provides an introduction to the discipline of computer programming. Closed laboratory to reinforce lecture topics and introduce new topics. Course is designed to expose students to basic programming concepts and to the use of the C++ language. This course is designed to enhance the student’s ability to design, develop and test/debug programs. Each student will increase his or her skill in writing correct and maintainable programs. Emphasis will be placed on problem analysis and on the subsequent development of algorithms. Several standard data types will be discussed and the student will gain an understanding of the issues relating to the use, design and implementation of each type in C++. A major focus of the lectures will be to provide an overview of real-world problem solving concepts and top-down software design.  Prereq: Intro. to Computer Science. 
+CSCI-136
+Computer Science II
+3 Credits
+Course exposes students to the software development life cycle with a focus on the concepts and use of the object-oriented paradigm in problem analysis, solution design, software development and implementation.  This course is designed to enhance the student’s ability to engineer software that is efficient, maintainable and cost efficient over its entire life cycle. Data abstraction is discussed in depth and students gain experience in the use of classes, object and member functions.  Students gain an understanding of the development of reusable abstract data types.  Software reuse is emphasized and object-oriented concepts are used throughout the course. O-notation and the complexity of algorithms are discussed at relevant points in the course. Prereq: Computer Science I (with a grade of ‘C’ or better).
+CSCI-165
+Scientific Computing for Engineers
+3 Credits
+Introduces programming and use of digital computers through symbolic programming. Programming includes general problem-solving and the systematic development of algorithms; use includes the coding of programs and practical experience in Maxima or Matlab.
+CSCI-201
+Computer Organization I
+3 Credits
+This course will cover the fundamentals required to understand the relationship between computer hardware and software. Topics include data representation on computers, computer arithmetic, Boolean algebra and digital logic, and assembly programming in MIPS. Prereq: Computer Science I
+CSCI-202
+Computer Organization II
+3 Credits
+This course will present the relationship between computer hardware and software, and the fundamental knowledge essential for understanding and designing the operations of computer systems. Topics include performance evaluation, non-pipelined and pipelined datapath, memory hierarchies, and I/O devices. Prereq: Computer Organization I.
+
+CSCI-211
+Unix Lab
+1 Credit
+This course will present the basic concepts of LINUX and UNIX operating systems. Topics that will be examined include Vi editor, Linux Command, directories, Disks and File systems, Users and Groups, File Permissions, Processes, file compression, basic network use, manage files, create and modify files, and Shell script.
+CSCI-203
+Object-Oriented Programming using Java
+1 Credit
+This course provides an introduction to Java programming and object-oriented programming concepts for students with previous programming experience in C/C++. The course provides a comprehensive overview of basic programming concepts in the Java programming language using an object-oriented approach.  Prereq: Computer Science I.
+CSCI-263
+Web Makers
+3 Credits
+Interested in learning web development but not sure where to start? Come join web makers and you will have your first web server up in one class! In this class, students will start with the basics and work up to a deep dive into making for the web. Students will be learning HTML, CSS and Javascript. This class will be about creation and students will become the maker. While no previous knowledge of web development is required, makers will be expected to have a working knowledge of programming concepts. Makers must be motivated to explore the syntactic nuances of these languages independently.  Prereq: CSCI 100, or some programming experience.
+CSCI-341
+Theory of Computation
+3 Credits
+Introduction to the classical theory of computer science. A study of the formal relationships between machines, languages and grammars; we will cover regular, context-free, context-sensitive, recursive and recursive enumerable languages. Sequential machines and their applications to devices, processes, and programming. Models of computation: finite state automata, push down automata, Turing machines. The role of non-determinism. Prereq: Computer Science II and Discrete Structures.
+
+CSCI-350
+Structure of Programming Languages
+3 Credits
+The course will teach students the basic components of the design and analysis of computer programming languages as well as the fundamental computation theory that is required to understand those concepts. The course will also cover several non-imperative languages (unlike C, such as LISP and Prolog) to expose students to the diversity of programming languages. Prereq: Computer Organization, Theory of Computation (After fall 2008).
+CSCI-354
+Computer Science III
+3 Credits
+The course continues the study of data structures and algorithms, focusing on algorithmic design and problem analysis and the relationships between data representation, algorithm design, and program efficiency. Topics include advanced data structures, key algorithm design techniques, analysis of the time and space requirements of algorithms, and the subsequent development of solution of systems. Concrete examples will be drawn from a variety of domains, such as algorithms for trees and graphs, indexing and search, and real-world problems.  Prereq: Computer Science II (with a grade of ‘C’ or better).
+
+CSCI-363
+Large Scale Programming
+3 Credits
+This course will introduce the students to applications and systems in the large scale. Students will be introduced to the object-oriented method to software design using UML and will apply the object-oriented design/analysis techniques of UML to a realistic Java application. Students will gain familiarity with managing larger projects and OOA/D. Prereq: Computer Science II
+CSCI-364
+Web Services
+3 Credits
+Presents  topics in distributed computing with particular emphasis on Web Services using Microsoft .NET Framework.  Also discussion on layered protocols, the client-server model, remote procedure call.  Students program extensively in C# and Visual Basic .NET. Corequisites: 306-401 Operating Systems.
+CSCI-375
+Software Engineering 
+3 Credits
+This course will introduce students to the basic concepts of software engineering and the software development life cycle. The course will cover methodological techniques for software specification, design, implementation, testing, verification, and documentation. The course will also present the use of state-of-the-art tools for computer-aided software engineering (CASE). Prereq: Computer Science III (CSCI-354)
+CSCI-376
+Operations Research 
+3 Credits
+Methodology for planning, analyzing and evaluating optimal systems: identifying and structuring objectives and defining performance requirements that influence the design of the system. Synthesizing and analyzing alternative solutions and applying optimization techniques for the optimum queuing system. Applications to real world systems with open and closed queues with emphasis on computer systems using microcomputer software packages. Prereq: CSCI-375 Software Engineering
+CSCI-379
+Introduction to Human Computer Interaction
+3 Credits
+Students will learn the fundamental concepts of human-computer interaction and user-centered design thinking, through working in teams on an interaction design project, supported by lectures, readings, and discussions. They will learn to evaluate and design usable and appropriate software based on psychological, social, and technical analysis. They will become familiar with the variety of design and evaluation methods used in interaction design, and will get experience with these methods in their project.  Prereq: Computer Science III
+CSCI-383
+Introduction to Affective Biometrics
+3 Credits
+Affective computing represents a broad, interdisciplinary research and practice area focusing on a range of topics, including: computational models of emotion, cognitive-affective architectures, affective user modeling; emotion sensing and recognition; emotion expression; and the use of emotions to improve human-computer interaction across a range of contexts including health informatics and immersive environments. This course will provide an introduction to affective computing and human-computer interaction through a combination of lectures, student presentations of selected literature, projects and class discussions. The course content and format will be appropriate for computer science, cognitive science, psychology, human factors, and industrial engineering students (advanced undergraduate/graduate). Students in this course will design an experimental study to examine how emotional states like stress, anxiety, frustration, anger, and/or depression can be measured through the use of mobile applications. At the end of the course, students will be paired with a student from the Architecture Department class called Immersive Environments to perform a study on how to design immersive environments to reduce stress, anxiety, frustration, anger, and/or depression.
+CSCI-390
+Ethical and Social Impact of Computing
+3 Credits
+This course will present the foundations of ethics in the context of computing. The broader social impact of computing and technology in general will also be reviewed. Areas of specific focus will include technology and human values, costs and benefits of technology, the character of technological change, and the social context of work in computer science and information technology.
+CSCI-400
+Computer and Network Forensics I
+3 Credits
+Computer and Network Forensics I is the first course in the two semester series on computer and network forensics, and focuses on computer system forensics (while the second course on network forensics). It consists of three major components: assembly level reverse engineering (to understand the logic of a program given only machine code), file system forensics (to find traces of past activities on data stored in nonvolatile storage) and memory forensics (to find traces of past stalactites on data stored in volatile storage). It will also briefly discuss the law aspect of digital forensics. In order to understand the materials, students are expected to have the following prerequisites: good programming skills in both high level (preferably C/C++) and assembly level, operating systems and basic familiarity with Linux and Windows.
+CSCI-401
+Operating Systems
+3 Credits
+This course will present the basic concepts of operating systems. Topics that will be examined include processes and interprocess communication/synchronization, virtual memory, program loading and linking system calls and system programs; interrupt handling, device and memory management, process scheduling, deadlock and the trade-offs in the design of large-scale multitasking operating systems.  Prereq: Computer Organization II and Large Scale Programming.
+CSCI-402
+Mobile Application Development
+3 Credits
+This course will introduce students to developing applications which target mobile devices. Students will be introduced to many issues unique to mobile applications, including synchronization, remote data access, security and sometimes-connected networks. They will research topics in these areas and develop a significant project which demonstrates their knowledge and understanding of these issues. Prereq: Computer Science III
+CSCI-403
+Introduction to Big Data Analysis
+3 Credits
+The primary goal of big data analytics is to analyze large volume of data. The analysis of big data requires the organization, storage, and processing of data at a scalable and efficient way which goes beyond the capabilities of traditional information technologies. In this course, we will cover modern massive data analysis technologies including different platforms, models, and languages, we will also look at real world applications and how they can be implemented on big data platforms. Topics in this course include: Map reduce/Hadoop, NoSQL stores, languages such as Pig Latin and JAQL, large-scale data mining and visualization. It will include programming projects that will provide students with hands-on experience on building data-intensive applications using existing big data tools and platforms.
+CSCI-410
+Modeling and Simulation
+3 Credits
+Introduces the fundamentals of system design and modeling. Emphasizes advantages and limitations of various modeling techniques for different applications. Introduces probability distributions typical of queuing models and presents in-depth discussions and experiments with existing simulation packages.
+CSCI-421
+Computer and Video Game Development
+3 Credits
+The course will span the software domains embedded in computer and video games. Topics such as game computational infrastructure, design, engines, and motion will be presented through discussion and assignments.  Game industry guest speakers will discuss software challenges and opportunities. Students completing this course will understand the software development process required to create a successful game and possess the programming expertise to create a simple game. Prereq: Computer Science III, Software Engineering
+CSCI-422
+Game Engine Programming
+3 Credits
+Game engine programming is introduced as a critical element in compelling game creation.  Programming activity will feature input capture, world integration, object motion, collision detection and audio scoring. Game performance metrics, code optimization and quality assurance testing procedures will be emphasized.  Code examples will be presented from XNA game studio and Torque. Course game project may be completed using a 2D or 3D game engine of choice including Torque, Gamestudio, Panda3D, or OGRE 3D rendering engine. Prereq: Computer and Video Game Development.
+CSCI-430
+Computer and Network Forensics II
+3 Credits
+This class will discuss advanced computer forensics topics and network forensics. knowledge points include virtual machine forensics, mobile device forensics, cloud forensics, email and social media investigation, network traffic capture and analysis, network application log analysis. As prerequisites, CSCI 450 (Data Communication) and CSCI 211 (Unix Labs) are required.
+CSCI-432
+Database Systems
+3 Credits
+This course will present the basic concepts of database systems. Topics that will be covered include basic relational database theory, relational database modeling, relational database design and implementation, normalization, transaction management, the SQL language and other languages and facilities provided by database management systems. Prereq: Computer Science III.
+CSCI-433
+Introduction to Database Security
+3 Credits
+An overview of both the theory of and applications for providing effective security in database management systems. Topics include conceptual frameworks for discretionary and mandatory access control, data integrity, availability and performance, secure database design, data aggregation, data inference, secure concurrency control, and secure transactions processing. Models for multilevel secure databases for both relational and object-relational databases are analyzed. Assignments focus on database security concepts.
+CSCI-440
+Object-Oriented Programming                      
+3 Credits
+Introduces the fundamentals of object-oriented information system development with a focus on analysis and design phases. Data modeling and design principles such as data abstraction, information hiding, modularity, and coupling are viewed in the context of object-oriented paradigm. For object-oriented modeling Unified Modeling Language (UML) is introduced and used extensively throughout the course. Issues relating to making the transition from other software development methodologies are examined and risks involved in object-oriented process are discussed. Prereq: Computer Science III
+CSCI-450
+Data Communications and Network Programming
+3 Credits
+This is an introductory course on computer networking. It will cover the layering model of the Internet. The upper four layers (application, transport, network and data link) will be discussed in details with dominant networking protocols and algorithms introduced. Students will also learn how to do basic programming on the Internet. Prereq: Computer Science III, Computer Organization I, Fundamentals of Algorithms, Discrete Structures
+CSCI-451
+Applied Wireless Networking
+3 Credits
+This course covers applied wireless networking principles from a historical, current, and future perspective. Topics that will be examined include wireless cellular networks 1G, 2G, 2.5G, 3G, 4G (LTE), and future 5G networks, IEEE wireless specifications 802.11 wireless LANs (Wi-Fi), 802.15 (WPAN, Bluetooth, UWB, ZIgBee, Mesh network), IEEE 802.16 (WiMAX), IEEE 802.20 (Mobile broadband wireless access), IEEE 802.21 (Media Independent Handover), (IEEE 802.22) Wireless Regional Area Networks, addressing and routing to mobile users, mobility management, quality of service, wireless multiplexing techniques, and wireless security.
+CSCI-452
+Network and Web Programming
+3 Credits
+This class will introduce (1) network programming, writing applications that communicate with each other via TCP/UDP sockets, and (2) Web programming, writing applications that are accessible through a Web Browser over the Hypertext Transport Protocol (HTTP). For web programming, both client side and server side programming will be covered. The LAMP stack (Linux, Apache, MySQL, and PHP) will be used for server side, Javascript and CSS will be covered for client side. HTML will be taught before studying programming. As prerequisites, programming skills are needed. Light database experience is preferred but not must.
+CSCI-453
+Intro to Cybersecurity I             
+3 Credits
+Computer Security Overview. Malware and Cyberwarfare. Passwords. Biometrics. Access Controls. Multilevel Security. Multilateral Security. Firewalls. Intrusion Detection . Cryptography Before 1970. Symmetric Key Cryptography. The Data Encryption Standard (DES). The Public Key Paradigm. Knapsacks. The RSA Approach to Public Key Cryptology. Elliptic Curve Cryptography. The Advanced Encryption Standard (Rijndael). Hash Functions. The Digital Signature Standard
+.
+CSCI-454
+Intro to Cybersecurity II        
+3 Credits
+Distributed Denial of Service (DDoS). Hash Functions. SHA-3 and Keccak. Network Security. Network attack and defense. Steganography . Software security I. Software flaws. Malware. Miscellaneous software-based attacks. Software security II. Software reverse engineering. Software tamper resistance. Digital rights management. Software development. Stuxnet and Cyberwarfare. Advanced encryption techniques. Elliptic Curves and Elliptic Curve Cryptography. Electronic voting. Quantum cryptography. Prereq: Intro to Cybersecurity I 
+.
+CSCI-460
+Advanced Systems Administration                       
+3 Credits
+Advanced system administration course provides a strong practical experience to Linux and Solaris operating systems. The course includes topics such as Samba (Windows file and print sharing), Email, Web serving with Apache, remote access, networking setup, Internet proxy services, fire wall and security administration, deploy LDAP in a Linux, Solaris and windows environment and also compile, configure and patch  a Kernel module.  Prereq:  Unix Lab
+CSCI-470
+Fundamentals of Algorithms
+3 Credits
+Techniques for designing efficient algorithms, analyzing their complexity and applying these algorithms to a broad range of application settings. Methods for recognizing and dealing with hard problems are studied. Prereq: CSCI 354: Computer Science III
+CSCI-472
+Systems Management Analysis
+3 Credits
+This course presents methodology for large-scale system design and analysis using modern semantic analysis techniques. Identification and definition of large-scale (community/industrial-based) problems. Discusses how to select and quantify measures of the severity of the problem. Presents different techniques for modeling alternative solutions to problems. Prereq: Software Engineering.
+CSCI-474
+Computational Biology             
+3 Credits
+Introduces computational methods for understanding biological systems at the molecular level. Problem areas such as mapping and sequencing, sequence analysis, structure prediction, phylogenic inference, regulatory analysis. Techniques such as dynamic programming, Markov models, expectation-maximization, local search. Prereq: CSCI 470: Fundamentals of Algorithms, MATH 189: Probability and Statistics
+CSCI-475
+Intro to Machine Learning
+3 Credits
+Techniques for learning from data and applying these algorithms to application settings. Topics covered include Bayesian methods, linear classifiers such as the perceptron, regression, and non-parametric methods such as k-nearest neighbors. Prereq: CSCI 354: Computer Science III, MATH 189: Probability and Statistics.
+CSCI-476
+Intro to Artificial Intelligence
+3 Credits
+This course will introduce students to contemporary topics in artificial intelligence. Topics that will be examined include basic AI concepts, representations, and techniques used in building practical computational systems (agents) that appear to display artificial intelligence, through the use of adaptive information processing algorithms. During the semester students will learn general knowledge representation techniques and problem solving strategies. Topics will include search, intelligent agents, game playing and rule-based systems. Prereq: CSCI 350 Structure of Programming Lang.
+CSCI-478
+Engineering Economic System Design
+3 Credits
+Presents methodology for system design. Methodology begins with identification and definition of private sector problems to which solutions are justified by economics. Discusses selection of appropriate economic measures for comparing alternative solutions such as present worth, equivalent annual cost, cost/benefit ratio, life cycle cost, return on investment pay back period. Presents different techniques for modeling alternative solutions to the problems and predicting cost. Other topics discussed include decision-making, system implementation, operations and retirement. Prereq: Operations Research.
+CSCI-480>
+Digital Media and Multimedia Applications
+3 Credits
+This course provides an introduction to digital media fundamentals including audio, video formats, storage and delivery. Windows Media and other technology will be extensively utilized as a method for digital content manipulation, rights management and internet transfer. Students will be exposed to basic internet architecture, operations and useful world wide web (WWW) resources. In addition, a practical understanding of digital computational devices, communication ports and connection cables will be acquired. Prereq: Junior standing.
+CSCI-491
+Senior Project I
+2 Credits
+Allows the senior student the opportunity to demonstrate his or her knowledge of systems engineering and computer science principles by application to a class project of his or her choosing, with the guidance and supervision of a faculty member. The student develops a proposal for the project, followed by an architectural design and detailed design, all of which must be presented in class. Prereq:  Computer Organization II.
+CSCI-492
+Senior Project II
+2 Credits
+In part two, the senior student develops and implements the system solution to the proposed project. The system, most commonly comprising computer software, hardware, procedures, etc., is implemented and tested in the department's Systems Development Laboratory. The student is required to demonstrate the system solution to the faculty and the student body of the department. Prereq: Senior Project I.
+CSCI-493
+The Lean LaunchPad: Technology Entrepreneurship and Lean Startups           
+3 Credits
+This course provides real world, hands-on learning on what it’s like to actually start a high-tech company. This class is not about how to write a business plan. It’s not an exercise on how smart you are in a classroom, or how well you use the research library to size markets. And the end result is not a Power Point slide deck for a VC presentation. And it is most definitely not an incubator where you come to build the―hot-idea that you have in mind. This is a practical class–essentially a lab, not a theory or―book class. Our goal, within the constraints of a class room and a limited amount of time, is to create an entrepreneurial experience for you with all of the pressures and demands of the real world in an early stage startup. You will be getting your hands dirty talking to customers, partners, competitors, as you encounter the chaos and uncertainty of how a startup actually works. You’ll work in teams learning how to turn a great idea into a great company. You’ll learn how to use a business model to brainstorm each part of a company and customer development to get out of the classroom to see whether any one other than you would want/use your product. Finally, based on the customer and market feedback gathered, you would use agile development to rapidly iterate your product to build something customers would actually use and buy. Every day will be a new adventure outside the classroom as you test each part of your business model and then share the hard earned knowledge with the rest of the class.
+CSCI-498
+Special Topics: Robotics Programming              
+3 Credits
+The primary focus of this course will be behavior-based robotics, which uses semi-autonomous artificial intelligence modules for planning. Behavior-based robots use sensor information to react to changes in an environment, instead of complicated internal models. Higher level concepts that will be covered i
