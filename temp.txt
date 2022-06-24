@@ -1,201 +1,254 @@
-EGPP-101
-Introduction to Engineering
-2 Credits
-Provides information on engineering education, the engineering profession, engineering basic concepts and engineering tools. Introduces the engineering design process and provides the opportunity for students to complete engineering design projects.
-CSCI-100
-Introduction to Computer Science
-3 Credits
-This course introduces the fundamentals of systems and computer science. A brief examination of critical, creative, systems and scientific thinking, is followed by more details on computational thinking. The focus is hands on computing exercises and group exercises that stress the importance of algorithms and problem solving. Students are exposed to the research agenda of the department, the different track options and career opportunities along the different tracks.
-CSCI-140
-Programming Team 
-1 Credit
-This course is for participants of the programming team.
-CSCI-135
-Computer Science I
-4 Credits
-This course provides an introduction to the discipline of computer programming. Closed laboratory to reinforce lecture topics and introduce new topics. Course is designed to expose students to basic programming concepts and to the use of the C++ language. This course is designed to enhance the student’s ability to design, develop and test/debug programs. Each student will increase his or her skill in writing correct and maintainable programs. Emphasis will be placed on problem analysis and on the subsequent development of algorithms. Several standard data types will be discussed and the student will gain an understanding of the issues relating to the use, design and implementation of each type in C++. A major focus of the lectures will be to provide an overview of real-world problem solving concepts and top-down software design.  Prereq: Intro. to Computer Science. 
-CSCI-136
-Computer Science II
-3 Credits
-Course exposes students to the software development life cycle with a focus on the concepts and use of the object-oriented paradigm in problem analysis, solution design, software development and implementation.  This course is designed to enhance the student’s ability to engineer software that is efficient, maintainable and cost efficient over its entire life cycle. Data abstraction is discussed in depth and students gain experience in the use of classes, object and member functions.  Students gain an understanding of the development of reusable abstract data types.  Software reuse is emphasized and object-oriented concepts are used throughout the course. O-notation and the complexity of algorithms are discussed at relevant points in the course. Prereq: Computer Science I (with a grade of ‘C’ or better).
-CSCI-165
-Scientific Computing for Engineers
-3 Credits
-Introduces programming and use of digital computers through symbolic programming. Programming includes general problem-solving and the systematic development of algorithms; use includes the coding of programs and practical experience in Maxima or Matlab.
-CSCI-201
-Computer Organization I
-3 Credits
-This course will cover the fundamentals required to understand the relationship between computer hardware and software. Topics include data representation on computers, computer arithmetic, Boolean algebra and digital logic, and assembly programming in MIPS. Prereq: Computer Science I
-CSCI-202
-Computer Organization II
-3 Credits
-This course will present the relationship between computer hardware and software, and the fundamental knowledge essential for understanding and designing the operations of computer systems. Topics include performance evaluation, non-pipelined and pipelined datapath, memory hierarchies, and I/O devices. Prereq: Computer Organization I.
+CSCI-N 100 - Introduction to Computers and Computing
+Credits: 3Description: No computing experience assumed. How computers work, word processing, spreadsheets, file management, and Internet skills. Emphasis on problem-solving techniques. Lecture and laboratory. Credit given for only one of CSCI-N 100, CPT 10600, CIT 10600, or BUS-K 201.Prerequisite: or C: MATH 001, M001, or equivalent.
+CSCI 12000 - Windows on Computer Science
+Credits: 1Description: A first-year seminar for beginning majors in Computer Science. Open to all beginning IUPUI students and transfer students with fewer than 18 credit hours.
+CSCI-N 199 - Introductory Computing Topics (topic varies)
+Credits: 1-3Description: Seminars in emerging technologies.
+CSCI-N 200 - Principles of Computer Science
+Credits: 3Description: Explore the Big Ideas of Computer Science (CS) and Computational Thinking (CT) through hands-on explorations with social networking, gaming, big data, robots, programming and more. Learn about the creativity, usefulness and breadth of Computer Science in a fun way that can enhance any field of study.
+CSCI-N 201 - Programming Concepts
+Credits: 3Description: Summary of basic computing topics, problem solving techniques, and their application to computing. Introduction to programming concepts with a focus on language-independent principles, such as algorithm design, debugging strategies, essential control structures, and basic data structure concepts. Lecture and laboratory.
+CSCI-N 207 - Data Analysis Using Spreadsheets
+Credits: 3Description: Summary of basic computing topics. An introduction to data analysis using spreadsheets. Emphasis on the application of computational problem-solving techniques. Lecture and laboratory.
+CSCI-N 211 - Introduction to Databases
+Credits: 3Description: Summary of basic computing topics. Introduction to database design concepts, creation of user forms, development of databases, querying techniques, and building reports. Focus on relational database systems from development and administration point of view. Lecture and laboratory.
+CSCI 23000 - Computing I
+Credits: 4Description: The context of computing in history and society, information representation in digital computers, introduction to programming in a modern high-level language, introduction to algorithm and data structures, their implementation as programs.Prerequisite: or C: MATH 15300 or MATH 15900.
+CSCI 24000 - Computing II
+Credits: 4Description: Continues the introduction of programming began in CSCI 230, with particular focus on the ideas of data abstraction and object-oriented programming. Topics include programming paradigms, principle of language design, object-oriented programming, programming and debugging tools, documentation, recursion, linked data structures, and introduction to language translation.Prerequisite: CSCI 23000 and MATH 15300 or MATH 15900.
+CSCI-N 241 - Fundamentals of Web Development
+Credits: 3Description: Introduction to writing content for the Internet and World Wide Web. Emphasis on servers, hand-coded HTML, Cascading Style Sheets, and extending HTML with other Web technologies. Lecture and laboratory.
+CSCI 26500 - Advanced Programming
+Credits: 3Description: Spring. Learn advanced programming skills and concepts. Introduction to software engineering: problem specification and program design with emphasis on object-oriented programming, programming style, debugging, and documentation. A significant software project's required.Prerequisite: or C: ECE 26400 and CSCI 24200 or CSCI 23000.
+CSCI-N 299 - Survey of Computing Applications (topic varies)
+Credits: 1-3Description: An introduction to an emerging technology in the computing field. It will emphasize the various problems technology helps to solve and specific problem-solving strategies. Lecture and laboratory.
+CSCI-N 300 - Mobile Computing Fundamentals
+Credits: 3Description: Survey of programming and application development for mobile computing devices. Topics include mobile technology, location-based technology, mobile security, mobile platforms, programming languages and application development for mobile devices. Lecture and Laboratory.
+CSCI 30000 - Systems Programming
+Credits: 3Description: Assembly language programming and structure of a simple and a typical computer. Pseudo operations, address structure, subroutines, and macros. File I/O and buffering techniques. Interfacing with high-level languages. Assemblers: one- and two-pass assemblers, system dependent and independent assembler features, and design options. Loaders, linkers, and macro processors.Prerequisite: CSCI 23000 and CSCI 24000.
+CSCI-N 301 - Fundamental Computer Science Concepts
+Credits: 3Description: An introduction to fundamental principles of computer science, including hardware architecture, algorithms, software engineering, and data storage. Lecture and laboratory.Prerequisite: MATH-M 118.
+CSCI-N 305 - C Language Programming
+Credits: 3Description: The basics of computer programming concepts using the C programming language. Emphasis on problem solving and algorithm implementation using a universal subset of the C programming language. Lecture and laboratory.
+CSCI-N 307 - Introduction to Programming using Java
+Credits: 3Description: Introduction of programming concepts focusing on the Java language, Essential algorithm design, basic program control concepts, essential data concepts, debugging and testing programs. The course will also include object oriented programming, creating user interfaces, event handling, and multi-platform programming issues.
+CSCI-N 311 - Advanced Database Programming, Oracle
+Credits: 3Description: Focus on the concepts and skills required for database programming and client server development. Concepts will apply to any modern distributed database management system. Emphasis on developing Oracle SQLPlus scripts, PL/SQL server side programming, and Oracle database architecture. Students with programming experience in ODBC compliant languages will be able to practice connecting such languages to an Oracle database. Lecture and laboratory.Prerequisite: Recommended CSCI-N 211 or equivalent.
+CSCI-N 317 - Computation for Scientific Applications
+Credits: 3Description: A survey and illustration of popular computational software used in multiple scientific domains to support data processing and scientific research. This class focuses on teaching how to use software to efficiently process data in terms of modeling, simulating, visualizing and data-mining. Fundamental concepts related to scientific computing are introduced briefly. Lecture and Lab.
+CSCI-N 321 - System and Network Administration
+Credits: 3Description: Fundamental concepts of system administration. Design and administration of network servers and workstations. Focus on basic network concepts, such as user account administration, resource allocation, security issues, an
 
-CSCI-211
-Unix Lab
-1 Credit
-This course will present the basic concepts of LINUX and UNIX operating systems. Topics that will be examined include Vi editor, Linux Command, directories, Disks and File systems, Users and Groups, File Permissions, Processes, file compression, basic network use, manage files, create and modify files, and Shell script.
-CSCI-203
-Object-Oriented Programming using Java
-1 Credit
-This course provides an introduction to Java programming and object-oriented programming concepts for students with previous programming experience in C/C++. The course provides a comprehensive overview of basic programming concepts in the Java programming language using an object-oriented approach.  Prereq: Computer Science I.
-CSCI-263
-Web Makers
-3 Credits
-Interested in learning web development but not sure where to start? Come join web makers and you will have your first web server up in one class! In this class, students will start with the basics and work up to a deep dive into making for the web. Students will be learning HTML, CSS and Javascript. This class will be about creation and students will become the maker. While no previous knowledge of web development is required, makers will be expected to have a working knowledge of programming concepts. Makers must be motivated to explore the syntactic nuances of these languages independently.  Prereq: CSCI 100, or some programming experience.
-CSCI-341
-Theory of Computation
-3 Credits
-Introduction to the classical theory of computer science. A study of the formal relationships between machines, languages and grammars; we will cover regular, context-free, context-sensitive, recursive and recursive enumerable languages. Sequential machines and their applications to devices, processes, and programming. Models of computation: finite state automata, push down automata, Turing machines. The role of non-determinism. Prereq: Computer Science II and Discrete Structures.
+CSCI-N 331 - Visual Basic Programming
+Credits: 3Description: An introduction to programming with a focus on rapid application development environments, event-driven programming, and programming in the Windows environment. Course will demonstrate how the major application types (spreadsheets, databases, text editors) are written. Lecture and laboratory.
+CSCI-N 335 - Advanced Programming, Visual Basic
+Credits: 3Description: Databases and VB, object-oriented design and practice, the component object model, interobject communication, related RAD environments such as VB for Applications and ActiveX using the Windows API, and generating online help. Lecture and laboratory.
+CSCI 34000 - Discrete Computational Structures
+Credits: 3Description: Fall/Spring. Theory and application of discrete mathematics structures and their relationship to computer science. Topics include mathematical logic, sets, relations, functions, permutations, combinatorics, graphs, Boolean algebra, digital logic, recurrence relations, and finite-state automata.Prerequisite: MATH 15300.
+CSCI 34050 - Honors Discrete Computational Structures
+Credits: 3Description: Fall/Spring. Discrete structures introduces students to the vocabulary, notation, formalisms, constructs, and methods of abstraction in which almost all of the advanced thinking in and about computer science is carried out. Topics include basic logic, proof techniques, recursion and recurrence relations, sets and combinatorics, probability, relations and functions, graphs and trees, Boolean algebra, and models of computation. An advanced project is expected in this course.Prerequisite: MATH 15300.
+CSCI-N 341 - Introduction to Client-Side Web Programming
+Credits: 3Description: Introduction to programming with a focus on the client-side programming environment. Programming using languages commonly embedded in Web browsers. Lecture and laboratory.Prerequisite: Recommended CSCI-N 241 or equivalent.
+CSCI-N 342 - Server-Side Programming for the Web
+Credits: 3Description: Designing and building applications on a Web server. Focuses on the issues of programming applied to Web servers. Emphasis on relational database concepts, data design, languages used on the server, transaction handling, and integration of data into Web applications.Prerequisite: Recommended CSCI-N 341.
+CSCI-N 343 - Object-Oriented Programming for the Web
+Credits: 3Description: Algorithm design and development within the object-oriented paradigm. Students will utilize Java to create Web-based application software with strong user interaction and graphics. In addition, students will utilize Oracle and SQL to learn introductory database design principles, coupling back-end database operation to application software. Lecture and laboratory.Prerequisite: CSCI-N 341 or CSCI-N 307.
+CSCI-N 345 - Advanced Programming, Java
+Credits: 3Description: A Java language course designed for students familiar with programming and the World Wide Web. Focus on the unique aspects of Java, Applet, and GUI design, object-oriented programming, event-handling, multithreaded applications, animation, and network programming. Lecture and laboratory.Prerequisite: CSCI-N 307 or CSCI-N 331 or CSCI-N 341 or equivalent.
+CSCI-N 351 - Introduction to Multimedia Programming
+Credits: 3Description: An integration of computing concepts and multimedia development tools. An introduction to the science behind multimedia (compression algorithms and digital/audio conversion). Use of authoring tools to create compositions of images, sounds, and video. Special emphasis given to using the Web as a multimedia presentation environment. Lecture and laboratory.
+CSCI-N 355 - Introduction to Virtual Reality
+Credits: 3Description: Explore concepts of 3D imaging and design including primitive shapes, transformations, extrusions, face sets, texture mapping, shading, and scripting. Lecture and laboratory.
+CSCI 35500 - Introduction to Programming Languages
+Credits: 3Description: Programming language concepts and different paradigms of programming. Topics include syntax and semantics of high-level languages, parsing methods, subprograms and their implementation, data abstraction, language translation overview including lexical analysis, syntax-directed translation, symbol table handling, code generation, functional programming, logic programming, and object-oriented programming.Prerequisite: CSCI 24000 and CSCI 34000.
+CSCI-N 361 - Fundamentals of Software Project Management
+Credits: 3Description: Tools and techniques used to manage software projects to successful completion. Problem-solving focus to learn specification development and management, program success metrics, UML modeling techniques, code design and review, principles, testing procedures, usability measures, release and revision processes, and project archival. Lecture and laboratory.
+CSCI 36200 - Data Structures
+Credits: 3Description: A study of the design and analysis of data structures and algorithms. Abstract data types: arrays, stacks, queues, lists, trees, and graphs. Algorithms: sorting, searching, and hashing. File structures: organization and access methods.Prerequisite: CSCI 24000 and CSCI 34000.
+CSCI 36250 - Honors Data Structures and Algorithms
+Credits: 3Description: This course includes fundamentals of data structures and algorithms, such as algorithm analysis, lists, stacks, and queues, trees, hashing and heaps, sorting, graph algorithms, and file structures. An advanced project is expected.Prerequisite: CSCI 23000, CSCI 24000, and CSCI 34000 or CSCI 34050.
+CSCI 36300 - Principles of Software Design
+Credits: 3Description: This course is designed to teach students best practices in designing and implementing object-oriented systems of high quality. To accomplish this task, we start with an overview of software design patterns and their role in developing high-quality software. We then begin surveying different design-level software design patterns, such as the Bridge, Strategy, Wrapper Facade, and Visitor software design patterns. Next, we touch on software design patterns for building distributed systems. Finally, we finish the course by surveying software anti-patterns, which are common design mistakes that negatively impact system quality, such as degrading performance as the system scales in size and complexity. Students will have the opportunity to apply learned techniques on several programming projects throughout the semester.Prerequisite: CSCI 24000.
+CSCI-N 399 - Topics in Computing (topic varies)
+Credits: 1-3Description: An investigation of an emerging language or topic in computing.
+CSCI 40200 - Architecture of Computers
+Credits: 3Description: Basic logic design. Storage systems. Processor organization: instruction formats, addressing modes, subroutines, hardware and microprogramming implementation. Computer arithmetic, fixed and floating point operations. Properties of I/O devices and their controllers. Interrupt structure. Virtual memory structure, cache memory. Examination of architectures such as microcomputers, minicomputers, and vector and array processors.Prerequisite: CSCI 34000.
+CSCI 40300 - Introduction to Operating Systems
+Credits: 3Description: Operating system concepts; history, evolution and philosophy of operating systems. Concurrent processes, process coordination and synchronization, CPU scheduling, deadlocks, memory management, virtual memory, secondary storage and file management, device management, security and protection, networking, and distributed and real-time systems.Prerequisite: CSCI 36200.
+CSCI-N 410 - Mobile Computing Application Development
+Credits: 3Description: Focus of this course is to give programmers information they need to develop new applications or move existing applications to handheld devices and other resource-constrained hardware. All programming is done via Visual Basic.NET or C#.
+CSCI 41400 - Numerical Methods
+Credits: 3Description: Error analysis, solution of nonlinear equations, direct and iterative methods for solving linear systems, approximation of functions, numerical differentiation and integration, and numerical solution of ordinary differential equations. Not open to students with credit in MATH 51200.
 
-CSCI-350
-Structure of Programming Languages
-3 Credits
-The course will teach students the basic components of the design and analysis of computer programming languages as well as the fundamental computation theory that is required to understand those concepts. The course will also cover several non-imperative languages (unlike C, such as LISP and Prolog) to expose students to the diversity of programming languages. Prereq: Computer Organization, Theory of Computation (After fall 2008).
-CSCI-354
-Computer Science III
-3 Credits
-The course continues the study of data structures and algorithms, focusing on algorithmic design and problem analysis and the relationships between data representation, algorithm design, and program efficiency. Topics include advanced data structures, key algorithm design techniques, analysis of the time and space requirements of algorithms, and the subsequent development of solution of systems. Concrete examples will be drawn from a variety of domains, such as algorithms for trees and graphs, indexing and search, and real-world problems.  Prereq: Computer Science II (with a grade of ‘C’ or better).
+CSCI-N 420 - Mobile Computing Cross Platform Development
+Credits: 3Description: Survey of programming & application development for mobile and wireless computing devices. Topics include recommended practices using the J2 platform for micro devices such as cell phones and PDAs, the implementation of cross-device GUI's, using event handlers and remote server access.Prerequisite: CSCI-N 343.
+CSCI-N 430 - Mobile Computing & Interactive Applications
+Credits: 3Description: Introduction to programming with emphasis on the Flash ActionScript environment as used in mobile devices. Topics include interface design for mobile devices, use of Flash as an application environment, game and multimedia development, communication with a web server, and parsing XML data.Prerequisite: CSCI-N 201.
+CSCI-N 431 - E-Commerce with ASP.NET
+Credits: 3Description: Topics include basic Web controls, form validation, connecting to an Enterprise-level database, SSL, and sending email within an ASP.NET Web page. A significant software development final project creating a functional Web store is featured. Lecture and laboratory.
+CSCI 43200 - Security in Computers
+Credits: 3Description: An introduction to computing security to include cryptography, identity and authentication, software security, operating system security, trusted operating system design and evaluation, network threats and defenses, security management, legal aspects of security, privacy and ethics.Prerequisite: CSCI 40300.
+CSCI 43300 - Introduction to the Internet of Things
+Credits: 3Description:Prerequisite: CSCI 36200 Data Structures and CSCI 40300 Operating Systems with a grade of C- or better.
+CSCI-N 435 - Data Management Best Practices with ADO.NET
+Credits: 3Description: A study of managing data in the .NET environment. Focus on strategies to efficiently manage data for large-scale projects. Topics include XML, DataSets, SQL, and error management. Lecture and laboratory.
+CSCI 43500 - Multimedia Information Systems
+Credits: 3Description: Multimedia information systems concepts, evolution of multimedia information systems, media and supporting device commonly associated, image databases, techniques for presenting visual information, video databases, multimodels, audio databases, text databases, and multimedia information systems architecture.Prerequisite: CSCI 36200, MATH 16600.
+CSCI 43600 - Principles of Computer Networking
+Credits: 3Description: Survey of underlying principles, fundamental problems, and their solutions in designing computer networks. Laboratory projects include using network systems and network simulation environments. Topics include: motivations, networking topologies, layered open systems protocols, transmission capacity, circuit and packet switching, packet framing and error correction, routing, flow and congestion control, and internetworking.Prerequisite: CSCI 40300.
+CSCI 43700 - Introduction to Computer Graphics
+Credits: 3Description: An introduction to 3D programming with emphasis on game engine development using 3D graphics techniques and the standard and platform independent OpenGL library. Topics include lighting, shading, texture mapping, coordinate systems and transformations, collision detection, 3D geometric and physically based modeling and animation.Prerequisite: CSCI 36200 and MATH 35100/51100.
+CSCI 43800 - Advanced Game Development
+Credits: 3Description: Advanced game design and development principles and technologies. Students will gain practical experience through extensive game development project. Topics include character animation, special effects, user interface design, networking for computer games, game engine components and variations, game performance considerations, artificial intelligence, and ethics in computer games.Prerequisite: CSCI 43700.
+CSCI 44100 - Client-Server Database Systems
+Credits: 3Description: Database system concepts, data models database design, CASE tools, SQL, query processing and query optimization, transaction processing, reliability and security issues, database interactions on the World Wide Web.Prerequisite: CSCI 36200.
+CSCI-N 443 - XML Programming
+Credits: 3Description: Fundamentals of XML programming language. After mastering fundamental XML scripting syntax, the course focuses on narrative-centric and data-centric XML applications. Narrative content includes CSS, DTD and XSLT, and X-path, -link, and -pointer tools; data-centric content includes the DOM, Schemas, and ADO/ASP. A required masterpiece project summarizes course competencies. Lecture and laboratory.Prerequisite: CSCI-N 241 and a CSCI-N 300-level programming course.
+CSCI 44300 - Database Systems
+Credits: 3Description: Relational database systems: architecture, theory, and application. Relational data structure, integrity rules, mathematical description, data manipulation. Standard SQL and its data manipulation language, engineering aspects of database design in industry, introduction to nonrelational database systems.Prerequisite: CSCI 36200.
+CSCI 44600 - Introduction to Microprocessor Architecture
+Credits: 3Description: Introduction to programmable logic; elements of microprocessor system design; interrupt structures; interfacing using LSI devices; hardware timers; interactive debugging; physical device I/O programming; vectored and polled service; microprocessor architecture; and self-paced laboratory using A/D converters, D/A converters, etc.Prerequisite: CSCI 40200.
+CSCI 44800 - Biometric Computing
+Credits: 3Description: Biometrics is capturing and using physiological and behavioral characteristics for personal identification. It is set to become the successor to the PIN. This course will introduce computational methods for the implementation of various biometric technologies including face and voice recognition, fingerprint and iris identification, and DNA matching.Prerequisite: CSCI 24000 and one of the following: STAT 35000 or STAT 41600 or STAT 51100.
+CSCI-N 450 - Mobile Computing with Web Services
+Credits: 3Description: Fundamental concepts of data transport between client devices and a server. Topics include web services, SOAP (simple object access protocol), and XML.Prerequisite: CSCI-N 410 or CSCI-N 420 or CSCI-N 430.
+CSCI 45000 - Principles of Software Engineering
+Credits: 3Description: Tools and techniques used in software development. Lifecycle concepts applied to program specification, development, and maintenance. Topics include overall design principles in software development; the use of structured programming techniques in writing large programs; formal methods of program verification; and techniques and software tools for program testing, maintenance, and documentation. A primary goal of this course is to provide experience in team development of software.Prerequisite: CSCI 36300.
+CSCI-N 451 - Web Game Development
+Credits: 3Description: Study of basic game development principles with a focus on client-side web delivery. Topics to include creation of sprite objects, user interaction concepts, basic intelligence concepts, game data structures, and basic game physics. Lecture and laboratory.
+CSCI 45200 - Object-Oriented Analysis and Design
+Credits: 3Description: Introduction to the object-oriented paradigm in software development. Basic concepts: objects, classes, messaging, inheritance, and methodologies. Analysis: defining objects, structures, attributes, and services. Design: transforming the analytic model into the design model. Implementation: comparison of the support features provided by languages such as Smalltalk, C++, Eiffel, and CLOS. A significant design project is required.Prerequisite: CSCI 36200.
+CSCI-N 461 - Software Engineering for Applied Computer Science
+Credits: 3Description: This is a survey course covering software engineering concepts, tools, techniques, and methodologies. The topi
 
-CSCI-363
-Large Scale Programming
-3 Credits
-This course will introduce the students to applications and systems in the large scale. Students will be introduced to the object-oriented method to software design using UML and will apply the object-oriented design/analysis techniques of UML to a realistic Java application. Students will gain familiarity with managing larger projects and OOA/D. Prereq: Computer Science II
-CSCI-364
-Web Services
-3 Credits
-Presents  topics in distributed computing with particular emphasis on Web Services using Microsoft .NET Framework.  Also discussion on layered protocols, the client-server model, remote procedure call.  Students program extensively in C# and Visual Basic .NET. Corequisites: 306-401 Operating Systems.
-CSCI-375
-Software Engineering 
-3 Credits
-This course will introduce students to the basic concepts of software engineering and the software development life cycle. The course will cover methodological techniques for software specification, design, implementation, testing, verification, and documentation. The course will also present the use of state-of-the-art tools for computer-aided software engineering (CASE). Prereq: Computer Science III (CSCI-354)
-CSCI-376
-Operations Research 
-3 Credits
-Methodology for planning, analyzing and evaluating optimal systems: identifying and structuring objectives and defining performance requirements that influence the design of the system. Synthesizing and analyzing alternative solutions and applying optimization techniques for the optimum queuing system. Applications to real world systems with open and closed queues with emphasis on computer systems using microcomputer software packages. Prereq: CSCI-375 Software Engineering
-CSCI-379
-Introduction to Human Computer Interaction
-3 Credits
-Students will learn the fundamental concepts of human-computer interaction and user-centered design thinking, through working in teams on an interaction design project, supported by lectures, readings, and discussions. They will learn to evaluate and design usable and appropriate software based on psychological, social, and technical analysis. They will become familiar with the variety of design and evaluation methods used in interaction design, and will get experience with these methods in their project.  Prereq: Computer Science III
-CSCI-383
-Introduction to Affective Biometrics
-3 Credits
-Affective computing represents a broad, interdisciplinary research and practice area focusing on a range of topics, including: computational models of emotion, cognitive-affective architectures, affective user modeling; emotion sensing and recognition; emotion expression; and the use of emotions to improve human-computer interaction across a range of contexts including health informatics and immersive environments. This course will provide an introduction to affective computing and human-computer interaction through a combination of lectures, student presentations of selected literature, projects and class discussions. The course content and format will be appropriate for computer science, cognitive science, psychology, human factors, and industrial engineering students (advanced undergraduate/graduate). Students in this course will design an experimental study to examine how emotional states like stress, anxiety, frustration, anger, and/or depression can be measured through the use of mobile applications. At the end of the course, students will be paired with a student from the Architecture Department class called Immersive Environments to perform a study on how to design immersive environments to reduce stress, anxiety, frustration, anger, and/or depression.
-CSCI-390
-Ethical and Social Impact of Computing
-3 Credits
-This course will present the foundations of ethics in the context of computing. The broader social impact of computing and technology in general will also be reviewed. Areas of specific focus will include technology and human values, costs and benefits of technology, the character of technological change, and the social context of work in computer science and information technology.
-CSCI-400
-Computer and Network Forensics I
-3 Credits
-Computer and Network Forensics I is the first course in the two semester series on computer and network forensics, and focuses on computer system forensics (while the second course on network forensics). It consists of three major components: assembly level reverse engineering (to understand the logic of a program given only machine code), file system forensics (to find traces of past activities on data stored in nonvolatile storage) and memory forensics (to find traces of past stalactites on data stored in volatile storage). It will also briefly discuss the law aspect of digital forensics. In order to understand the materials, students are expected to have the following prerequisites: good programming skills in both high level (preferably C/C++) and assembly level, operating systems and basic familiarity with Linux and Windows.
-CSCI-401
-Operating Systems
-3 Credits
-This course will present the basic concepts of operating systems. Topics that will be examined include processes and interprocess communication/synchronization, virtual memory, program loading and linking system calls and system programs; interrupt handling, device and memory management, process scheduling, deadlock and the trade-offs in the design of large-scale multitasking operating systems.  Prereq: Computer Organization II and Large Scale Programming.
-CSCI-402
-Mobile Application Development
-3 Credits
-This course will introduce students to developing applications which target mobile devices. Students will be introduced to many issues unique to mobile applications, including synchronization, remote data access, security and sometimes-connected networks. They will research topics in these areas and develop a significant project which demonstrates their knowledge and understanding of these issues. Prereq: Computer Science III
-CSCI-403
-Introduction to Big Data Analysis
-3 Credits
-The primary goal of big data analytics is to analyze large volume of data. The analysis of big data requires the organization, storage, and processing of data at a scalable and efficient way which goes beyond the capabilities of traditional information technologies. In this course, we will cover modern massive data analysis technologies including different platforms, models, and languages, we will also look at real world applications and how they can be implemented on big data platforms. Topics in this course include: Map reduce/Hadoop, NoSQL stores, languages such as Pig Latin and JAQL, large-scale data mining and visualization. It will include programming projects that will provide students with hands-on experience on building data-intensive applications using existing big data tools and platforms.
-CSCI-410
-Modeling and Simulation
-3 Credits
-Introduces the fundamentals of system design and modeling. Emphasizes advantages and limitations of various modeling techniques for different applications. Introduces probability distributions typical of queuing models and presents in-depth discussions and experiments with existing simulation packages.
-CSCI-421
-Computer and Video Game Development
-3 Credits
-The course will span the software domains embedded in computer and video games. Topics such as game computational infrastructure, design, engines, and motion will be presented through discussion and assignments.  Game industry guest speakers will discuss software challenges and opportunities. Students completing this course will understand the software development process required to create a successful game and possess the programming expertise to create a simple game. Prereq: Computer Science III, Software Engineering
-CSCI-422
-Game Engine Programming
-3 Credits
-Game engine programming is introduced as a critical element in compelling game creation.  Programming activity will feature input capture, world integration, object motion, collision detection and audio scoring. Game performance metrics, code optimization and quality assurance testing procedures will be emphasized.  Code examples will be presented from XNA game studio and Torque. Course game project may be completed using a 2D or 3D game engine of choice including Torque, Gamestudio, Panda3D, or OGRE 3D rendering engine. Prereq: Computer and Video Game Development.
-CSCI-430
-Computer and Network Forensics II
-3 Credits
-This class will discuss advanced computer forensics topics and network forensics. knowledge points include virtual machine forensics, mobile device forensics, cloud forensics, email and social media investigation, network traffic capture and analysis, network application log analysis. As prerequisites, CSCI 450 (Data Communication) and CSCI 211 (Unix Labs) are required.
-CSCI-432
-Database Systems
-3 Credits
-This course will present the basic concepts of database systems. Topics that will be covered include basic relational database theory, relational database modeling, relational database design and implementation, normalization, transaction management, the SQL language and other languages and facilities provided by database management systems. Prereq: Computer Science III.
-CSCI-433
-Introduction to Database Security
-3 Credits
-An overview of both the theory of and applications for providing effective security in database management systems. Topics include conceptual frameworks for discretionary and mandatory access control, data integrity, availability and performance, secure database design, data aggregation, data inference, secure concurrency control, and secure transactions processing. Models for multilevel secure databases for both relational and object-relational databases are analyzed. Assignments focus on database security concepts.
-CSCI-440
-Object-Oriented Programming                      
-3 Credits
-Introduces the fundamentals of object-oriented information system development with a focus on analysis and design phases. Data modeling and design principles such as data abstraction, information hiding, modularity, and coupling are viewed in the context of object-oriented paradigm. For object-oriented modeling Unified Modeling Language (UML) is introduced and used extensively throughout the course. Issues relating to making the transition from other software development methodologies are examined and risks involved in object-oriented process are discussed. Prereq: Computer Science III
-CSCI-450
-Data Communications and Network Programming
-3 Credits
-This is an introductory course on computer networking. It will cover the layering model of the Internet. The upper four layers (application, transport, network and data link) will be discussed in details with dominant networking protocols and algorithms introduced. Students will also learn how to do basic programming on the Internet. Prereq: Computer Science III, Computer Organization I, Fundamentals of Algorithms, Discrete Structures
-CSCI-451
-Applied Wireless Networking
-3 Credits
-This course covers applied wireless networking principles from a historical, current, and future perspective. Topics that will be examined include wireless cellular networks 1G, 2G, 2.5G, 3G, 4G (LTE), and future 5G networks, IEEE wireless specifications 802.11 wireless LANs (Wi-Fi), 802.15 (WPAN, Bluetooth, UWB, ZIgBee, Mesh network), IEEE 802.16 (WiMAX), IEEE 802.20 (Mobile broadband wireless access), IEEE 802.21 (Media Independent Handover), (IEEE 802.22) Wireless Regional Area Networks, addressing and routing to mobile users, mobility management, quality of service, wireless multiplexing techniques, and wireless security.
-CSCI-452
-Network and Web Programming
-3 Credits
-This class will introduce (1) network programming, writing applications that communicate with each other via TCP/UDP sockets, and (2) Web programming, writing applications that are accessible through a Web Browser over the Hypertext Transport Protocol (HTTP). For web programming, both client side and server side programming will be covered. The LAMP stack (Linux, Apache, MySQL, and PHP) will be used for server side, Javascript and CSS will be covered for client side. HTML will be taught before studying programming. As prerequisites, programming skills are needed. Light database experience is preferred but not must.
-CSCI-453
-Intro to Cybersecurity I             
-3 Credits
-Computer Security Overview. Malware and Cyberwarfare. Passwords. Biometrics. Access Controls. Multilevel Security. Multilateral Security. Firewalls. Intrusion Detection . Cryptography Before 1970. Symmetric Key Cryptography. The Data Encryption Standard (DES). The Public Key Paradigm. Knapsacks. The RSA Approach to Public Key Cryptology. Elliptic Curve Cryptography. The Advanced Encryption Standard (Rijndael). Hash Functions. The Digital Signature Standard
-.
-CSCI-454
-Intro to Cybersecurity II        
-3 Credits
-Distributed Denial of Service (DDoS). Hash Functions. SHA-3 and Keccak. Network Security. Network attack and defense. Steganography . Software security I. Software flaws. Malware. Miscellaneous software-based attacks. Software security II. Software reverse engineering. Software tamper resistance. Digital rights management. Software development. Stuxnet and Cyberwarfare. Advanced encryption techniques. Elliptic Curves and Elliptic Curve Cryptography. Electronic voting. Quantum cryptography. Prereq: Intro to Cybersecurity I 
-.
-CSCI-460
-Advanced Systems Administration                       
-3 Credits
-Advanced system administration course provides a strong practical experience to Linux and Solaris operating systems. The course includes topics such as Samba (Windows file and print sharing), Email, Web serving with Apache, remote access, networking setup, Internet proxy services, fire wall and security administration, deploy LDAP in a Linux, Solaris and windows environment and also compile, configure and patch  a Kernel module.  Prereq:  Unix Lab
-CSCI-470
-Fundamentals of Algorithms
-3 Credits
-Techniques for designing efficient algorithms, analyzing their complexity and applying these algorithms to a broad range of application settings. Methods for recognizing and dealing with hard problems are studied. Prereq: CSCI 354: Computer Science III
-CSCI-472
-Systems Management Analysis
-3 Credits
-This course presents methodology for large-scale system design and analysis using modern semantic analysis techniques. Identification and definition of large-scale (community/industrial-based) problems. Discusses how to select and quantify measures of the severity of the problem. Presents different techniques for modeling alternative solutions to problems. Prereq: Software Engineering.
-CSCI-474
-Computational Biology             
-3 Credits
-Introduces computational methods for understanding biological systems at the molecular level. Problem areas such as mapping and sequencing, sequence analysis, structure prediction, phylogenic inference, regulatory analysis. Techniques such as dynamic programming, Markov models, expectation-maximization, local search. Prereq: CSCI 470: Fundamentals of Algorithms, MATH 189: Probability and Statistics
-CSCI-475
-Intro to Machine Learning
-3 Credits
-Techniques for learning from data and applying these algorithms to application settings. Topics covered include Bayesian methods, linear classifiers such as the perceptron, regression, and non-parametric methods such as k-nearest neighbors. Prereq: CSCI 354: Computer Science III, MATH 189: Probability and Statistics.
-CSCI-476
-Intro to Artificial Intelligence
-3 Credits
-This course will introduce students to contemporary topics in artificial intelligence. Topics that will be examined include basic AI concepts, representations, and techniques used in building practical computational systems (agents) that appear to display artificial intelligence, through the use of adaptive information processing algorithms. During the semester students will learn general knowledge representation techniques and problem solving strategies. Topics will include search, intelligent agents, game playing and rule-based systems. Prereq: CSCI 350 Structure of Programming Lang.
-CSCI-478
-Engineering Economic System Design
-3 Credits
-Presents methodology for system design. Methodology begins with identification and definition of private sector problems to which solutions are justified by economics. Discusses selection of appropriate economic measures for comparing alternative solutions such as present worth, equivalent annual cost, cost/benefit ratio, life cycle cost, return on investment pay back period. Presents different techniques for modeling alternative solutions to the problems and predicting cost. Other topics discussed include decision-making, system implementation, operations and retirement. Prereq: Operations Research.
-CSCI-480>
-Digital Media and Multimedia Applications
-3 Credits
-This course provides an introduction to digital media fundamentals including audio, video formats, storage and delivery. Windows Media and other technology will be extensively utilized as a method for digital content manipulation, rights management and internet transfer. Students will be exposed to basic internet architecture, operations and useful world wide web (WWW) resources. In addition, a practical understanding of digital computational devices, communication ports and connection cables will be acquired. Prereq: Junior standing.
-CSCI-491
-Senior Project I
-2 Credits
-Allows the senior student the opportunity to demonstrate his or her knowledge of systems engineering and computer science principles by application to a class project of his or her choosing, with the guidance and supervision of a faculty member. The student develops a proposal for the project, followed by an architectural design and detailed design, all of which must be presented in class. Prereq:  Computer Organization II.
-CSCI-492
-Senior Project II
-2 Credits
-In part two, the senior student develops and implements the system solution to the proposed project. The system, most commonly comprising computer software, hardware, procedures, etc., is implemented and tested in the department's Systems Development Laboratory. The student is required to demonstrate the system solution to the faculty and the student body of the department. Prereq: Senior Project I.
-CSCI-493
-The Lean LaunchPad: Technology Entrepreneurship and Lean Startups           
-3 Credits
-This course provides real world, hands-on learning on what it’s like to actually start a high-tech company. This class is not about how to write a business plan. It’s not an exercise on how smart you are in a classroom, or how well you use the research library to size markets. And the end result is not a Power Point slide deck for a VC presentation. And it is most definitely not an incubator where you come to build the―hot-idea that you have in mind. This is a practical class–essentially a lab, not a theory or―book class. Our goal, within the constraints of a class room and a limited amount of time, is to create an entrepreneurial experience for you with all of the pressures and demands of the real world in an early stage startup. You will be getting your hands dirty talking to customers, partners, competitors, as you encounter the chaos and uncertainty of how a startup actually works. You’ll work in teams learning how to turn a great idea into a great company. You’ll learn how to use a business model to brainstorm each part of a company and customer development to get out of the classroom to see whether any one other than you would want/use your product. Finally, based on the customer and market feedback gathered, you would use agile development to rapidly iterate your product to build something customers would actually use and buy. Every day will be a new adventure outside the classroom as you test each part of your business model and then share the hard earned knowledge with the rest of the class.
-CSCI-498
-Special Topics: Robotics Programming              
-3 Credits
-The primary focus of this course will be behavior-based robotics, which uses semi-autonomous artificial intelligence modules for planning. Behavior-based robots use sensor information to react to changes in an environment, instead of complicated internal models. Higher level concepts that will be covered i
+CSCI 46300 - Analysis of Algorithms
+Credits: 3Description: Techniques for analyzing and comparing algorithms. Average case analysis in sorting and searching; dynamic programming: greedy algorithms, amortized analysis, and applications; matrix algorithms: polynomials, discrete Fourier transforms, and fast Fourier transforms, parallel algorithms: examples in sorting, searching, graphs, and matrices, computational complexity, polynomial complexity classes P, NP.Prerequisite: CSCI 36200.
+CSCI 47000 - Automata and Formal Languages
+Credits: 3Description: Introduction to formal languages and automata theory: finite automata and regular expressions, context-free grammars and languages, pushdown automata, equivalence of CFGs and pushdown automata, application of pushdown automata in parsing, closure properties, pumping lemmas, decision procedures, Turing machines, computability, undecidability, and a brief survey of the Chomsky hierarchy.Prerequisite: CSCI 36200.
+CSCI 47500 - Scientific Computing I
+Credits: 3Description: Solving scientific problems on computers. Languages for scientific computing. Software development on workstations: using tools the environment provides, organization of programs. Computer architecture: impact on software and algorithms. Problem formulation: model selection/simplification, relationship to numerical methods. Solution of linear equations: methods and packages. Nonlinear equations and optimization problems.Prerequisite: CSCI 23000 and MATH 35100. P or C: MATH 26200.
+CSCI 47600 - Scientific Computing II
+Credits: 3Description: Elementary statistical computing: time series analysis, model fitting, robust methods, generation of pseudorandom numbers, and Monte Carlo methods. Interpolation and curve fitting; numerical integration. Solving ordinary differential equations. Use of packaged environments and symbolic computation for scientific purposes.Prerequisite: CSCI 47500.
+CSCI 47700 - High Performance Computing
+Credits: 3Description: Architecture of supercomputers: pipelined, vector, SIMD, MIMD; implications for algorithm and program design; and vectorization, parallelization, loop restructuring, and nonstandard language features. Splitting computation between supercomputers and workstations; interactive analyses of remote machines' output. Numerical methods for large-scale problems: examples from continuum mechanics, graphical visualization, and statistical computing. A project is required.Prerequisite: CSCI 47600.
+CSCI 48100 - Data Mining
+Credits: 3Description: An introduction to data warehousing and OLAP technology for data mining, data processing, languages and systems, and descriptive data mining: characterization and comparison, association analysis classification and predication, cluster analysis mining complex types of data, application, and trends in data mining.Prerequisite: CSCI 24000 and MATH 35100 or MATH 51100. Recommended: STAT 30100 or STAT 35000 or STAT 41600 or STAT 51100.
+CSCI 48400 - Theory of Computation
+Credits: 3Description: Introduction to formal languages and automata theory: finite automata, regular expressions, regular languages, context-free languages and pushdown automata, context sensitive languages, Turing machines, undecidability, P and NP. Design and analysis techniques for: divide-and-conquer algorithms, greedy algorithms, dynamic programming, amortized analysis.Prerequisite: CSCI 36200.
+CSCI-N 485 - Capstone Project in Applied Computing
+Credits: 3Description: This course provides students with a mechanism for producing and integrating technical achievement meritorious of program culmination. The project will demonstrate subject matter mastery within project development guidelines and reflect both a breadth and depth of technically focused problem-solving skills.Prerequisite: CSCI-N 301 and CSCI-N 341.
+CSCI 48500 - Expert System Design
+Credits: 3Description: Overview of artificial intelligence; expert system technology; early expert systems: MYCIN, DENDRAL; theoretical foundations, uncertainty measures, knowledge representation, inference engines; reasoning mechanisms: forward and backward chaining; and explanation systems, expert system shells, tools, and intelligent hybrid systems.Prerequisite: CSCI 36200.
+CSCI 48700 - Artificial Intelligence
+Credits: 3Description: Study of key concepts and applications of artificial intelligence. Problem-solving methods, state space search, heuristic search, knowledge representation: predicate logic, resolution, natural deduction, nonmonotonic reasoning, semantic networks, conceptual dependency, frames, scripts, and statistical reasoning; advanced AI topics in game playing, planning, learning, and connectionist models.Prerequisite: CSCI 36200.
+CSCI 48900 - Data Science
+Credits: 3Description: Spring. Prerequisite: CSCI 24000 and STAT 30100 or STAT 35000 or STAT 51100 with grades of C- or better
+CSCI 49000 - Topics in Computer Sciences for Undergraduates
+Credits: 1-5Description: By arrangement. Fall, spring, summer. Supervised reading and reports in various fields.Prerequisite: Open to students only with the consent of the department.
+CSCI 49500 - Explorations in Applied Computing
+Credits: 1-6Description: Explorations in Applied Computing is an undergraduate capstone experience. Students will work in teams, advised by faculty and external liaisons, to solve real-world computing problems. This hands-on experience will cultivate technical expertise, utilization of analytical thinking, quantitative reasoning, project management skills, and communication skills.
+CSCI 49600 - Computer Science Internship Capstone
+Credits: 3Description: A professional experience providing students the opportunity to incorporate material learned in CSCI coursework in a supervised internship position. The approved internship position will cultivate technical expertise, utilization of analytical thinking, quantitative reasoning, project management skills, and communication skills.Prerequisite: CSCI 48400 and senior standing.
+CSCI-N 499 - Topics in Applied Computing (topic varies)
+Credits: 1-3Description: An investigation and examination of an emerging discipline in applied computer science.Prerequisite: CSCI-N 300-level course or equivalent.
+CSCI 50200 - Compiling and Programming Systems
+Credits: 3Description: Fall. Basic principles of compilers and compiler design; control of translation, loading, and execution; symbolic coding systems; lexical and syntactic analysis; design and operation of assemblers and macroprocessors; and design of interpretive systems. Students are expected to complete a large programming project as part of the course.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 50300 - Operating Systems
+Credits: 3Description: Spring. Basic principles of operating systems: addressing modes, indexing, relative addressing, indirect addressing, stack maintenance; implementation of multitask systems; control and coordination of tasks, deadlocks, synchronization, and mutual exclusion; storage management, segmentation, paging, virtual memory, protection, sharing, and access control; file systems; resource management; and evaluation and prediction of performance.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 50400 - Concepts in Computer Organization
+Credits: 3Description: The fundamentals of computer hardware for computer scientists. An overview of the organization of modern computers, ranging from sequential to advanced machines. CISC, RISC, and vector processors; multiprocessors; virtual storage, hierarchical memory; interaction with O/S; connection models; high-level programming support; and cost/performance analysis.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 50600 - Management of the Software Development Process
+Credits: 3Description: A survey of the fundamental principles and concepts of managing a software project. Topics include life cycle models, standards and goals, cost estimation, risk analysis, tool use, component reuse, traceability, metrics, and process control and improvement. Students are required to apply management concepts using a project-based approach.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 50700 - Object-Oriented Design and Programming
+Credits: 3Description: An advanced exploration of the object-oriented model and programming. Topics range from a review of the objec
+
+CSCI 50900 - Software Quality Assurance
+Credits: 3Description: Fall, every other year. Prerequisite: Graduate Student standing in Department of Computer Information Science.
+CSCI 51200 - Numerical Methods for Engineers and Scientists
+Credits: 3Description: A survey of the useful methods of computation. Solution of nonlinear equations and systems of nonlinear equations. Numerical methods for systems of linear equations. Approximate differentiation and integration. Numerical solution of ordinary differential equations. Introduction to partial differential equations and elementary approximation methods.Prerequisite: MATH 35100 or MATH 51100; MATH 51000; and knowledge of programming. CS graduate standing or instructor consent required. Not open to students with credit in CSCI 41400. Not normally accepted for graduate credit in computer science programs.
+CSCI 51400 - Numerical Analysis
+Credits: 3Description: Iterative methods for solving nonlinear equations, linear difference equations, applications to solution of polynomial equations, differentiation and integration formulas, numerical solution of ordinary differential equations, and round-off error bounds.Prerequisite: CSCI 41400 or equivalent. CS graduate standing or instructor consent required.
+CSCI 51500 - Numerical Analysis of Linear Systems
+Credits: 3Description: Computational aspects of linear algebra; linear equations and matrices; direct and iterative methods; eigenvalues and eigenvectors of matrices; error analysis.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 51600 - Computational Methods in Applied Mathematics
+Credits: 3Description: A study of techniques such as direct integration, shooting, finite difference, finite elements, method of weighted residuals, and methods of characteristics for solving problems in fluid mechanics, solid mechanics, dynamics, and other fields of applied mathematics.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 52000 - Computational Methods in Analysis
+Credits: 3Description: A treatment of numerical algorithms for solving classical problems in real analysis with primary emphasis on linear and nonlinear systems of equations and on optimization problems; the writing, testing, and comparison of numerical software for solving such problems; and a discussion of the characteristics of quality software for implementing these algorithms.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 52500 - Parallel Computing
+Credits: 3Description: Parallel computing for science and engineering applications: parallel programming and performance evaluation, parallel libraries and problem-solving environments, models of parallel computing and run-time support systems, and selected applications.Prerequisite: or C: CSCI 40200 or an equivalent course, some programming experience with C or a similar language.
+CSCI 52600 - Information Security
+Credits: 3Description: Basic notions of confidentiality, integrity, availability; authentication and protection models; security kernels; secure programming; audit; intrusion detection/response; operational security issues; personal security; policy formation/enforcement; access controls; information flow; legal/social issues; identification and authentication in local and distributed systems; classification and trust modeling; risk assessment.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 53200 - Cloud Computing Systems
+Credits: 3Description:
+CSCI 53300 - Wireless Sensor Networks
+Credits: 3Description:Prerequisite: CSCI 53600 Data Communication & Computer Networks or instructor permission
+CSCI 53600 - Data Communication and Computer Networks
+Credits: 3Description: Data communications: communication hardware technologies including local area and long-haul network hardware, circuit and packet switching, interfaces between computer and network hardware, and performance issues. Network architecture: protocol software and conceptual layering, reliable delivery over an unreliable channel, transport protocols, virtual circuits, datagrams, Internet working as a fundamental design concept, the client-server paradigm, naming and name binding, name servers, addressing and address resolution, routing algorithms, congestion and flow control techniques, network file systems, distribution of computation, and DARPA Internet protocols (TCP/IP) as examples of protocol organization.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 53700 - Introduction to Distributed Computing
+Credits: 3Description: Introduction to the principles and methods in the design of distributed computing systems. It covers the fundamentals of distributed computing from four perspectives: underlying communication media, protocols and their implications; operating system issues; high-level language constructs; and distributed algorithms.Prerequisite: CSCI 50300 and CSCI 53600. CS graduate standing or instructor consent required.
+CSCI 53800 - The Design of Interactive Systems
+Credits: 3Description: Fundamental concepts and tools employed in designing the interaction between humans and machines and the mediating interfaces. Topics include: design problem, interface design concepts, experimental design and analysis, cognitive and predictive models, the design project, case studies, and applications.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 53900 - Computing with Distributed Objects
+Credits: 3Description: An introductory treatment of the distributed-object model and programming. The topics range from a review of the distributed and object models of computation to advanced concepts such as remote method invocations, object brokers, object services, open systems, and future trends for distributed-object systems.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 54100 - Database Systems
+Credits: 3Description: Spring. Fundamentals for the logical design of database systems. The entity-relationship model, semantic model, relational model, hierarchical model, network model. Implementations of the models. Design theory for relational databases. Design of query languages and the use of semantics for query optimization. Design and verification of integrity assertions, and security. Introduction to intelligent query processing and database machines.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 54300 - Introduction to Simulation and Modeling of Computer Systems
+Credits: 3Description: Simulation: discrete event simulation, process-oriented simulation, generating random numbers, simulation languages, simulation examples of complex systems. Nondeterministic models: random variables, Poisson process, moment generating functions, statistical inference, and data analysis. Modeling: elementary queuing models, network of queues, and applications to performance evaluation of computer systems.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 54700 - Information Storage and Retrieval and Natural Language Processing
+Credits: 3Description: Complex data structures of fields within records, as well as clustered, multilist, and inverted files; key decoding by tree and randomized techniques; overall techniques of classical document retrieval systems, e.g., the MEDLARS and NASA systems; overall techniques of automatic document retrieval systems, e.g., TIP and SMART, the internal structure of SMART; question answering systems; and natural language translation.Prerequisite: CSCI 54100. CS graduate standing or instructor consent required.
+CSCI 54800 - Introduction to Bioinformatics
+Credits: 3Description: Analysis of biological data employing various computational methods to obtain useful information in the emerging area of bioinformatics. Topics include structures, functions and evolution of proteins and nucleic acids, retrieval and interpretation of bioinformation from the Internet, learning principles, algorithms and software for sequence alignment, similarity search of sequence databases, estimation of phylogenetic trees, structural prediction, and functional inference.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 54900 - Intelligent Systems
+Credits: 3Description: This course will discuss problems in the area of intelligent systems. Topics include the formalisms within which these problems are studied, the computational methods that have been proposed for their solution, and the real-world technological systems to which these methods have been applied.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 55000 - Computer Graphics
+Credits: 3Description: An introduction to computer graphics. Topics include the concepts, principles, algorithms, and programming techniques in 3D interactive computer graphics. Emphasis is on the development and applic
+
+CSCI 55200 - Data Visualization
+Credits: 3Description: Spring. An introduction to data visualization methods and tools, and related graphics techniques. Students will explore a variety of data representation and modeling techniques, their corresponding visualization algorithms, and practical visualization applications in scientific, engineering, and biomedical fields.Prerequisite: CSCI 55000. CS graduate standing or instructor consent required.
+CSCI 55500 - Cryptography
+Credits: 3Description: Concepts and principles of cryptography and data security. Cryptography (secret codes): principles of secrecy systems; classical cryptographic systems, privacy enhanced email; digital signatures. Proprietary software protection; information theory and number theory; complexity bounds on encryption; key escrow; traffic analysis; attacks against encryption; basic legal issues; e-commerce; the role of protocols.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 55600 - Fault-Tolerant Computing
+Credits: 3Description: Concepts of fault-tolerant computing; phases of fault-tolerance; applications to commercial, communication, and aerospace systems; fault-tolerance in multi-processor systems; diagnosis techniques; software fault-tolerance.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 55700 - Image Processing and Computer Vision
+Credits: 3Description: Topics may include image input and transformation, feature detection and recognition in 2D image processing, as well as 3D dynamic images.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 55800 - Multimedia
+Credits: 3Description: Spring. 
+CSCI 55900 - Biometric Computing
+Credits: 3Description: Spring. 
+CSCI 56500 - Programming Languages
+Credits: 3Description: Fall. An exploration of modern or unconventional concepts of programming languages, their semantics, and their implementations; abstract data types; axiomatic semantics using Hoare's logic and Dijkstra's predicate transformers; denotational semantics; functional, object-oriented, and logic programming; concurrency and Owicki-Gries theory. Example languages include ML, Ada, Oberon, LISP, PROLOG, and CSP.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 57300 - Data Mining
+Credits: 3Description: Data Mining has emerged at the confluence of artificial intelligence, statistics, and databases as a technique for automatically discovering summary knowledge in large datasets. This course introduces students to the process and main techniques in data mining, including classification, clustering, and pattern mining approaches. Data mining systems and applications will also be covered, along with selected topics in current research.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 57500 - Computer Systems Security
+Credits: 3Description: This course aims at explaining how to build systems to remain dependable in the face of malice, error, or mischance. The course focuses on the tools, processes, and methods needed to design, implement, and test complete systems, and to adapt existing systems as their environment evolves. The course builds on students' prior foundation from studies in computer security, networks, operating systems and computer architecture. The course is highly interactive, based on class discussions. An important part of the course will be dedicated to improving research skills, such as writing papers and preparing presentations.Prerequisite: Graduate student standing in the Department of Computer Science.
+CSCI 57800 - Statistical Machine Learning
+Credits: 3Description: Spring. Prerequisite: Calculus, Linear Algebra, Probability and Random Variables, and Basic knowledge of optimization techniques.
+CSCI 57900 - Bioinformatics Algorithms
+Credits: 3Description: Fall. 
+CSCI 58000 - Algorithm Design, Analysis, and Implementation
+Credits: 3Description: Basic techniques for designing and analyzing algorithms: dynamic programming, divide-and-conquer, balancing, upper and lower bounds on time and space costs, worst case and expected cost measures. A selection of applications such as disjoint set union/find, graph algorithms, search trees, pattern matching. The polynomial complexity classes P, NP, and co-NP; intractable problems.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 58200 - Automata and Formal Languages
+Credits: 3Description: Spring. Finite automata, regular expressions; push-down automata, context-free grammars; and languages and behaviors. Closure properties, pumping lemmas, and decision procedures. Deterministic context-free languages and LR(k) parsing; brief survey of the Chomsky hierarchy.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 59000 - Topics in Computer Science
+Credits: 3Description: Fall, spring. Directed study for students who wish to undertake individual reading and study on approved topics.Prerequisite: CS graduate standing or instructor consent required.
+CSCI-C 591 - Research Seminar
+Credits: 0Description: First-year seminar in research methods and current research directions of the faculty.Prerequisite: CS graduate standing or instructor consent required.
+CSCI 60300 - Advanced Topics in Distributed Systems
+Credits: 3Description: Design and control of distributed computing systems (operating systems and database systems). Topics include principles of namings and location, atomicity, resources sharing, concurrency control and other synchronization, deadlock detection and avoidance, security, distributed data access and control, integration of operating systems and computer networks, distributed systems design, consistency control, and fault tolerance.Prerequisite: CSCI 53700. CS graduate standing or instructor consent required.
+CSCI 61400 - Numerical Solution of Ordinary Differential Equations
+Credits: 3Description: Numerical solution of initial-value problems by Runge-Kutta methods, general one-step methods, and multistep methods. Analysis of truncation error, discretization error, and rounding error. Stability of multistep methods. Numerical solution of boundary-value and eigenvalue problems by initial-value techniques and finite difference methods.Prerequisite: CSCI 51400. CS graduate standing or instructor consent required.
+CSCI 61500 - Numerical Solution of Partial Differential Equations
+Credits: 3Description: The numerical solution of hyperbolic, parabolic, and elliptic equations by finite difference methods; iterative methods (Gauss-Seidel, overrelaxation, alternating direction) for solving elliptic equations; discretization and round-off errors; explicit and implicit methods for parabolic and hyperbolic systems; the method of characteristics; the concept of stability for initial value problems.Prerequisite: CSCI 51500 and MATH 52300. CS graduate standing or instructor consent required.
+CSCI 62600 - Advanced Information Assurance
+Credits: 3Description: Spring. Prerequisite: CSCI 55500 (Cryptography) or instructor permission.
+CSCI 66000 - Design of Translating Systems
+Credits: 3Description: Systems
+
+CSCI 66100 - Formal Compiling Methods
+Credits: 3Description: Application of concepts developed in formal language and automata theory to the design of programming languages and their processors. Models of syntactic analysis, including canonical precedence, LR(k) and LL(k) parsing methods and variants; efficiency of each. Synthesis techniques, including symbol tables, storage administration, parameter mechanisms, garbage collection; optimization considerations. Models of synthesis, including level, affix, attributed grammars; prospects of fully automating compiler design. Applicative vs. procedural languages and their implementations based on semantic definition of a language (LISP, Lucid) and on proof-like techniques (PROLOG, equational systems); merits of such approaches.Prerequisite: CSCI 50200. CS graduate standing or instructor consent required.
+CSCI 69500 - M.S. Project
+Credits: 1-9Description: The student integrates and applies the knowledge gained from the formal course work to formulate and execute a solution to a problem of practical importance. The faculty advisor and the sponsoring organization mentor, if applicable, provide guidance and evaluation.Prerequisite: Consent of instructor.
+CSCI 69800 - Research M.S. Thesis
+Credits: 1-18Description: Formal research on M.S. Thesis supervised by the faculty advisor.Prerequisite: Consent of instructor.
+CSCI 69900 - Research Ph.D. Thesis
+Credits: 1-9Description: Formal research on P

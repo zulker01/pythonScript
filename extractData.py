@@ -1,8 +1,8 @@
 from openpyxl import load_workbook
  
 wb = load_workbook("temp.xlsx")   # open an Excel file and return a workbook
-univName = "Howard University" 
-courseCodeString = "CS"  
+univName = "Indiana University-Purdue University" 
+courseCodeString = "CSCI"  
 if univName  in wb.sheetnames:
     print(univName+' exists')
 else:
@@ -17,15 +17,27 @@ if(activesheet["A1"]!="Course No"):
 prevline=""
 courseCode=[]
 duplicateCount=0
+tempcode=""
+tempcode=""
 with open('temp.txt',encoding="utf8") as f:
     lines = f.readlines()
     for i in range(0, len(lines)):
         line = lines[i]   
-        if(line[line.find("-")+1:line.find("-")+4].isnumeric()):
-                tempcodestr = line[:line.find("-")]+" "+line[line.find("-")+1:line.find("-")+4]
-                tempcode = tempcodestr
-                tempName = lines[i+1]
-
+        if(courseCodeString in line[:6]):
+                
+                if("CSCI-N" in line[:7]):
+                    tmpstr = line[5:]
+                    hipposi = tmpstr.find("-")+5
+                    tempcode = "CSCI-"+line[5:hipposi]
+                    tempName = line[hipposi+1:]
+                elif("CSCI-C" in line[:7]):
+                    tmpstr = line[5:]
+                    hipposi = tmpstr.find("-")+5
+                    tempcode = "CSCI-"+line[5:hipposi]
+                    tempName = line[hipposi+1:]
+                else:
+                    tempcode = line[:line.find("-")]
+                    tempName = line[line.find("-")+1:]
                 if(tempcode  in courseCode):
                     print("duplicate for : "+line+" total duplicate "+str(duplicateCount))
                     duplicateCount+=1
@@ -38,5 +50,6 @@ with open('temp.txt',encoding="utf8") as f:
         prevline = line
         
 f.close()
+
 wb.save('temp.xlsx')
 wb.close()
