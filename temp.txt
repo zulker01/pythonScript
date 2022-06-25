@@ -1,66 +1,7 @@
-CEC 101  Computing, Engineering, and Society 
-CSE 102 Introduction to Computer Science and Software Engineering
-CSE 148  Business Computing
-CSE 151  Computers, Computer Science, and Society
-CSE 153  Introduction to C / C ++ Programming
-CSE 163  Introduction to Computer Concepts and Programming
-CSE 174   Fundamentals of Programming and Problem Solving
-CSE 177 Independent Study
-CSE 201  Introduction to Software Engineering
-CSE 211  Software Construction
-CSE 212  Software Engineering for User Interface and User Experience Design
-CSE 220 Professional Practice
-CSE 243  Problem Analysis Using Computer Tools
-CSE 251  Introduction to Game Programming
-CSE 252  Web Application Programming
-CSE 253  Current Programming Languages
-CSE 256 (BIO / MBI 256) Introduction to Programming for the Life Sciences
-CSE 262  Technology, Ethics, and Global Society
-CSE 270 Special Topics
-CSE 270E  NodeJS (Winter Term Only)
-CSE 270M Mathematics & Computer Science
-CSE 271  Object-Oriented Programming
-CSE 273  Optimization Modeling
-CSE 274  Data Abstraction and Data Structures
-CSE 277 Independent Study
-CSE 278  Systems I: Introduction to Systems Programming
-CSE 310 Undergraduate Seminar
-CSE 311  Software Architecture and Design
-CSE 320 Professional Practice
-CSE 321  Software Quality Assurance and Testing
-CSE 322  Software Requirements
-CSE 340 Internship
-CSE 340U Undergraduate Summer Scholars Program
-CSE 372  Stochastic Modeling
-CSE 374 Algorithms I
-CSE 377 Independent Study
-CSE 381  Systems 2: OS, Concurrency, Virtualization, and Security
-CSE 382 Mobile App Development
-CSE 383  Web Applications Programming
-CSE 385  Database Systems
-CSE 386 Foundations of Computer Graphics and Games
-CSE 389 Game Design and Implementation
-CSE 411  Introduction to Model-Driven Software Engineering
-CSE 432 Machine Learning
-CSE 443  High Performance Computing
-CSE 448  Senior Design Project I
-CSE 449  Senior Design Project II
-CSE 451  Web Services and Service Oriented Architecture
-CSE 456 (BIO / MBI 456) Bioinformatic Principles
-CSE 465  Comparative Programming Languages
-CSE 466  (BIO / MBI 466) Bioinformatics Computing Skills
-CSE 467  Computer and Network Security
-CSE 470  Special Topics
-CSE 470a  Malicious Code Analysis
-CSE 470g  Cloud Computing and Dev Ops
-CSE 470K Applied Cryptography
-CSE 473  Automata, Formal Languages, and Computability
-CSE 474  Compiler Design
-CSE 477 Independent Study
-CSE 480  Special Problems
-CSE 484 Algorithms II
-CSE 485  Advanced Database Systems
-CSE 486  Introduction to Artificial Intelligence
-CSE 488 Image Processing & Computer Vision
-CSE 489 Advanced Graphics and Game Engine Design
-CSE 491 Undergraduate Research
+COSC A211, Intro to Programming I
+COSC A212, Introduction to Programming II
+COSC A217, Object-Oriented Programming
+COSC A317, Data Structures
+COSC ,Elective
+COSC A208, Information Systems Theory & Practice  
+COSC A270, Introduction to Relational Databases 

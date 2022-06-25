@@ -1,8 +1,8 @@
 from openpyxl import load_workbook
 import re
 
-wb = load_workbook("temp.xlsx")   # open an Excel file and return a workbook
-univName = "Miami University" 
+wb = load_workbook("Zulker 28_42.xlsx")   # open an Excel file and return a workbook
+univName = "Loyola University New Orleans" 
 courseCodeString = "CSCI"  
 if univName  in wb.sheetnames:
     print(univName+' exists')
@@ -27,10 +27,15 @@ with open('temp.txt',encoding="utf8") as f:
     lines = f.readlines()
     for i in range(0, len(lines)):
         line = lines[i]   
-        if("CSE" in line[:5]):
+        if True :
                 
                 #if("EN." in line[:4]):
                 ##hipposi = tmpstr.find(".")+7
+                #new_str, rest = test_str.split(" ", K)
+                tempcode = line[:line.find(",")]
+                tempName = line[line.find(",")+1:]
+
+                """
                 tempcode = line[:8]
                 
                 tempName = line[8:]
@@ -38,7 +43,7 @@ with open('temp.txt',encoding="utf8") as f:
                     tempName = tempName[tempName.find(")")+1:]
                 #tempName = tempName[:tempName.find(".")]
                 #print("before tempcod "+tempcode)
-                
+                """
                 """
                 if("(" in tempName):
                     
@@ -55,18 +60,19 @@ with open('temp.txt',encoding="utf8") as f:
                 #else:
                     tempcode = line[:line.find("-")]
                     tempName = line[line.find("-")+1:]
-                    """
+                    
                 if(tempcode  in courseCode):
                     print("duplicate for : "+line+" total duplicate "+str(duplicateCount))
                     duplicateCount+=1
                     continue
+                    """
                 if(tempName[0]==" "):
                     tempName = tempName[1:]
                 courseCode.append(tempcode)
                 activesheet.append((tempcode,tempName))
 
             # break
-                print(tempcode+" "+tempName)
+                print(tempcode+" hehe "+tempName)
         prevline = line
         
 f.close()
